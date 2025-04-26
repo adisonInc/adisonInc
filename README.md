@@ -1,7 +1,7 @@
 
 # Hey there! 
-## MY PORTFOLIO (WORK IN PROGRESS) 
-## https://kamilportfolio-ten.vercel.app/
+### MY PORTFOLIO (WORK IN PROGRESS) 
+### https://kamilportfolio-ten.vercel.app/
 
 🎓 Studying at Politechnika Gdańska, interested in:  
 🔥 **Linux** - I love everything related to open-source and experimenting with different distributions!  
