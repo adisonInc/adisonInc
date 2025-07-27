@@ -1,14 +1,39 @@
+# 👋 Hey, I'm Kamil
 
-# Hey there! 
-### MY PORTFOLIO (WORK IN PROGRESS) 
-### https://kamilportfolio-ten.vercel.app/
+I'm studying Computer Science at Gdańsk University of Technology. I feel most comfortable in Linux environments and like to dive into how things work under the hood. In my free time, I automate tasks, write scripts, and break down challenges on Hack The Box.
 
-🎓 Studying at Politechnika Gdańska, interested in:  
-🔥 **Linux** - I love everything related to open-source and experimenting with different distributions!  
-💻 **Embedded Systems** - Fascinated by IoT and how small devices are changing the world.  
-🛠️ **Tinkering** - You’ll often find me working on new projects, from programming to messing around with electronics.  
-🚀 **New technologies** - Always on the lookout for the latest trends to stay up to date!  
-🎮 **Video games** - Sometimes, I need a break, so I dive into a good game!  
-⚡ **Passionate about learning** - Always ready for new challenges and projects!
+---
 
-🌍 **I dive into various technologies** and strive to constantly improve! If you want to share knowledge or collaborate on an interesting project, hit me up! 🤖💥
+## 🧰 What I'm into
+
+- 🐧 **Linux** – my main OS; configs, services, terminal life  
+- 💻 **Programming** – mostly Python, Bash, and some C/C++  
+- 🔐 **Security** – Hack The Box, basic pentesting, service analysis  
+- 🔌 **Embedded & electronics** – microcontrollers, GPIO, sensors  
+- 🧠 **Debugging & reverse** – I like solving weird system issues
+
+---
+
+## 🚧 Projects
+
+| Repository                   | What’s inside                                            |
+|-----------------------------|-----------------------------------------------------------|
+
+| [`automation-scripts`](https://github.com/adisonInc/LinuxScripts) | CLI tools and scripts I’ve built for system tasks and learning |
+| [`portfolio`](https://kamilportofolio-vercel.app/) | My personal website – updated with project progress                           |
+| [`wedding`](https://pawelweronika.fun/) | Wedding webiste - simple but fucntional                                                  |
+
+
+---
+
+## 🌍 Connect
+
+- 🌐 Portfolio: [https://kamilportfolio-ten.vercel.app/](https://hellokamil.vercel.app/)  
+- 🐙 GitHub: [https://github.com/adisonInc](https://github.com/adisonInc)
+
+---
+
+## 🤝 Open to collaborate
+
+If you're working on something interesting with Linux, scripting, or security – feel free to reach out.  
+I enjoy learning by doing and working through real challenges.
