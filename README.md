@@ -19,8 +19,10 @@ I'm studying Computer Science at Gdańsk University of Technology. I feel most c
 | Repository                   | What’s inside                                            |
 |-----------------------------|-----------------------------------------------------------|
 
+| [`portfolio`](https://hellokamil.vercel.app/) | My personal website – updated with project progress                                |
+
 | [`automation-scripts`](https://github.com/adisonInc/LinuxScripts) | CLI tools and scripts I’ve built for system tasks and learning |
-| [`portfolio`](https://kamilportofolio-vercel.app/) | My personal website – updated with project progress                           |
+
 | [`wedding`](https://pawelweronika.fun/) | Wedding webiste - simple but fucntional                                                  |
 
 
